@@ -1,0 +1,11 @@
+_bin/
+_build/
+
+!/*/*_example.pro
+
+*.o
+hello_*.pro
+
+# 辅助性杂物
+*.pdf
+*.doc
