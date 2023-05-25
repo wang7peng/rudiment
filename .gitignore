@@ -9,3 +9,8 @@ hello_*.pro
 # 辅助性杂物
 *.pdf
 *.doc
+
+# qt creator ui
+moc_*.cpp
+ui_*.h
+*.pro.user
