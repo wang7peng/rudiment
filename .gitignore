@@ -1,5 +1,8 @@
-_bin/
-_build/
+# 子目录中同名的, 不用前缀_
+bin/
+build/
+
+Makefile
 
 !/*/*_example.pro
 
